@@ -2,8 +2,8 @@
 <title>
 Pagina Web
 </title>
-<body>
-<img file:///C:/Users/Public/Pictures/Sample%20Pictures/Lighthouse.jpg>
+<body background=file:///C:/Users/Public/Pictures/Sample%20Pictures/Lighthouse.jpg>
+
 <p>
 ¿¿Hola chicos quetal estais??
 </p>
