@@ -11,13 +11,7 @@ public class Fruteria {
 		final double VOL_MIN_DTO=100;
 		final double DTO_VOLUMEN=10;
 		//si el total es mayor q 100 aplicar dto de %10
-		
-		//definicion de variables
-		String producto;
-		double precio;
-		double cantidad;
-		double total;
-		double dto; 
+	
 		
 		//def del scanner para leer por consola
 			Scanner sc=new Scanner(System.in);
@@ -39,7 +33,7 @@ public class Fruteria {
 						}
 							//escribir el mensaje
 							
-				System.out.println("Has comprado "+cantidad+"Kg de "+producto+" y el precio es "+total+"€");
+				System.out.println("Has comprado "+cantidad+"Kg de "+producto+" y el precio es "+total+"â‚¬");
 				sc.close();
 		
 		
