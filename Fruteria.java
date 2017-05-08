@@ -39,7 +39,7 @@ public class Fruteria {
 						}
 							//escribir el mensaje
 							
-				System.out.println("Has comprado "+cantidad+"Kg de "+producto+" y el precio es "+total+"€");
+				System.out.println("Has comprado "+cantidad+"Kg de "+producto+" y el precio es "+total+"â‚¬");
 				sc.close();
 		
 		
